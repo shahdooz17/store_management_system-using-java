@@ -1,0 +1,4 @@
+Name: chips
+Price: 2.0
+Quantity: 12
+Category: 

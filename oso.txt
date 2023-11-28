@@ -1,0 +1,4 @@
+Name: oso
+Price: 12.0
+Quantity: 34
+Category: pepsi
